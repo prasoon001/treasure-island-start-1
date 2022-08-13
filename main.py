@@ -54,4 +54,4 @@ else:
         elif (v3.lower() == "yellow"):
             print("you Win!")
         else:
-            print("Game Over")
+            print("You entered into door which does not exists , Game Over")
